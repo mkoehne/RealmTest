@@ -7,6 +7,6 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.RealmTest HideGettingStarted="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.RealmTest.Droid PreferredExecutionTarget="Android.Nexus_5_6.0" />
+  <MonoDevelop.Ide.ItemProperties.RealmTest.Droid PreferredExecutionTarget="Android.Android_6" />
   <MultiItemStartupConfigurations />
 </Properties>
