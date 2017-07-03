@@ -1,5 +1,19 @@
 ﻿<Properties StartupConfiguration="{E25424BE-BED8-4823-AA5D-AF905934BE82}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RealmTest" expanded="True">
+            <Node name="RealmTest" expanded="True" />
+            <Node name="RealmTest.Droid" expanded="True" />
+            <Node name="RealmTest.iOS" expanded="True">
+              <Node name="Packages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.RealmTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.96DA22BD-F171-4ACD-8B18-C24FCEAAF589" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
